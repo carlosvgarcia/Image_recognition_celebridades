@@ -3,4 +3,4 @@
 This project was created in an educational way as a final presentation
 of the class in general assembly.
 
-My name is Carlos Garcia and welcome to Image_Recognition_arepas
+My name is Carlos Garcia and welcome to Image_Recognition_celebridades
