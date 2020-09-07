@@ -4,6 +4,6 @@
 
 Here are the two **main** code files.
  
-**image_recognition_model**: file where the model to be evaluated will be trained. 
+**image_recognition_model**: In this file you will find the code and the structure that will be used to train our model. 
 
-**image_recognition_funtion**: function in which the already trained model will be executed.
+**image_recognition_funtion**: In this file you will find the code of a function designed to evaluate the model that was trained.
